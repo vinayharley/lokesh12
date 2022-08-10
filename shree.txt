@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-this is a sri's files.
-=======
 this is my shree's file.
->>>>>>> br2
+
+this is a sri's files.
